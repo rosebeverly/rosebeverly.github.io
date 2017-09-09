@@ -1,0 +1,34 @@
+body{
+	font-family: georgia;
+	background: rgb(50,50,50);
+
+}
+h1{
+	text-align: center;
+	color: #9242f4;
+}
+
+h2{
+	text-align: center;
+	color: #9e8eb2;
+}
+
+ul{
+	margin-left: 10%;
+
+}
+p{
+	margin: 0 20px 0 20px;
+}
+
+.body{
+	color: white;
+	font-family: garamond;
+}
+
+.seattle-img{
+	padding: 10px 10px 10px 10px
+}
+.seattle-img:hover{
+	opacity: 0.5;
+}
